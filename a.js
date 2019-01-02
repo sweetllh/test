@@ -1,4 +1,6 @@
-let a = 12;
+
+let a = 10;
 function bb() {
   return a
 }
+
