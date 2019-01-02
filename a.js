@@ -6,3 +6,5 @@ function bb() {
 
 let cc = 889999
 let bb = "ppo"
+let b = 899;
+
